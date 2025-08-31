@@ -76,6 +76,4 @@ node test-urls.js
 - **Frontend**: HTML, CSS, JavaScript
 - **Styling**: Modern CSS with responsive design
 
-## License
 
-MIT License
